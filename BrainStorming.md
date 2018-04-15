@@ -7,3 +7,5 @@ First we will collect tweets of some famous celebrities. Around 50 celebrities s
 
 Second one is to create an webapp that lets users take a photo via webcamp and determines whether they look like more of a dog or a cat. In order to
 train my model I will be using 25000 cat and dog images that can be found [here.](https://www.kaggle.com/c/dogs-vs-cats/data) 
+
+(https://github.com/artintelclass/final-kg1642/blob/master/Images/cat.jpg) (https://github.com/artintelclass/final-kg1642/blob/master/Images/dog.jpg)
