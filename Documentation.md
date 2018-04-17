@@ -1,7 +1,7 @@
 
 # Are you more of a dog person or a cat? 
 
-
+![](https://github.com/artintelclass/final-kg1642/blob/master/Images/CatorDog.jpg)
 It is an webapp which allows users to take a photo of them using a webcamp and tells them whether they look more like a dog person or a cat person. Flask framework of Python will be used 
 to create an webapp. I am choosing Flask as it is a framework for python and being able to write the backend in python will allow me to take the benefot of tensorflow and keras. Front-end will be written in Javascript.
 
