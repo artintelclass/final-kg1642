@@ -1,5 +1,5 @@
 
-#Are you more of a dog person or a cat? 
+# Are you more of a dog person or a cat? 
 
 
 It is an webapp which allows users to take a photo of them using a webcamp and tells them whether they look more like a dog person or a cat person. Flask framework of Python will be used 
@@ -9,13 +9,13 @@ The model used to compare the users photo will be trained on 25000 images of cat
 
 Below are some of the resources that I will be using.
 
-[Cats vs Dogs Classifier](https://github.com/neungkl/cat-vs-dog-classification)
-[Classifying Cats vs Dogs with a Convolutional Neural Network on Kaggle](https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/)
-[Cats and dogs and convolutional neural networks](http://www.subsubroutine.com/sub-subroutine/2016/9/30/cats-and-dogs-and-convolutional-neural-networks)
-[Flask, Python's web framework](http://flask.pocoo.org/)
+[Cats vs Dogs Classifier](https://github.com/neungkl/cat-vs-dog-classification) 
+[Classifying Cats vs Dogs with a Convolutional Neural Network on Kaggle](https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/) 
+[Cats and dogs and convolutional neural networks](http://www.subsubroutine.com/sub-subroutine/2016/9/30/cats-and-dogs-and-convolutional-neural-networks) 
+[Flask, Python's web framework](http://flask.pocoo.org/) 
 
 
-##Process:
+## Process:
 1. Train the model on 25000 images of cats and dogs using Convolutional neural network.
 2. Create an webapp that allows users to take a photo via a webcamp.
 3. Compare the photo taken by the user with the trained model. 
