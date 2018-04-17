@@ -10,8 +10,11 @@ The model used to compare the users photo will be trained on 25000 images of cat
 Below are some of the resources that I will be using.
 
 [Cats vs Dogs Classifier](https://github.com/neungkl/cat-vs-dog-classification) 
+
 [Classifying Cats vs Dogs with a Convolutional Neural Network on Kaggle](https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/) 
+
 [Cats and dogs and convolutional neural networks](http://www.subsubroutine.com/sub-subroutine/2016/9/30/cats-and-dogs-and-convolutional-neural-networks) 
+
 [Flask, Python's web framework](http://flask.pocoo.org/) 
 
 
